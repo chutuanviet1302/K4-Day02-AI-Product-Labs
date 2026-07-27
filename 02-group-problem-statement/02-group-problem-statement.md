@@ -2,6 +2,8 @@
 
 ## Group convergence
 Đề tài : Tình trạng quá tải tại các bệnh viện tuyến trung ương
+
+
 Nhóm chia sẻ các candidate problem trong bối cảnh quá tải bệnh viện và gom lại thành 4 cluster chính.
 
 | Cluster | Candidate examples | Pattern chung |
